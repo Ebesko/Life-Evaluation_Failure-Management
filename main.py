@@ -1,6 +1,5 @@
 import tkinter as tk
 
-
 class FailureManagement:
     def __init__(self, root):
         self.root = root
