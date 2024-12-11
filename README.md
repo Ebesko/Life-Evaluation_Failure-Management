@@ -1,10 +1,10 @@
 # Life Evaluation: Failure Management
 
-Failure Management is a modern tool to manage the deception you have been to everyone. Including you, as the first concerned.<br><br><br>
+Failure Management is a modern tool to manage the disappointment you have been to everyone. Including you, as the first concerned.<br><br><br>
 
-The design is very human. It will help you to sort your thoughts: you're a loser, yes, but at what point?<br>
-Are you even surpassing the bests masters of the science?<br>
-Or are you just a grumpy complaining old person that smell bad?
+The design is very human. It will help you to sort your thoughts: you're a loser, yes, but to what extend?<br>
+Are you even surpassing the bests masters of the art?<br>
+Or are you just a smelly, grumpy old person?
 <br><br>
 <div align="center">Discover now with: </div><br>
 <div align="center">✨Failure management✨</div><br>
