@@ -16,7 +16,6 @@ Or are you just a smelly, grumpy old person?
 - Compatible Windows only.
 - Download the lastest release and launch *main.exe* through the computer, your life through the window.
   - WARNING: Mixing up those instructions may lead to unexpected behavior.
-- Do NOT close the console opening at the same time as the app!
 - Enjoy your true nature.
 
 ## Screenshot
